@@ -28,4 +28,3 @@ OCR-Extractor/
 │── test_img3.jpg       # Sample image 3
 │── output_example.png  # Screenshot of OCR result
 └── README.md           # Documentation
-
